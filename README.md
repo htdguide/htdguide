@@ -1,6 +1,7 @@
 ## 👋  Hi there! I'm Nikita
 
-![PacMan_1hfVkHtXCF](https://github.com/user-attachments/assets/d8f7c90c-0601-4463-8866-879d2366e2ea)
+![PacMan_fva2Hy1drk](https://github.com/user-attachments/assets/641c7b36-dd2e-4866-bebf-12b23a5e5d40)
+
 
 <h2> 🚀 &nbsp;Languages and Tools </h2>
 <p align="left">
