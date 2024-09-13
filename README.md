@@ -1,6 +1,8 @@
 ## 👋  Hi there! I'm Nikita
+I'm a Bachelor of Information Technology student in Otago Polytechnic.
 
-![PacMan_fva2Hy1drk](https://github.com/user-attachments/assets/641c7b36-dd2e-4866-bebf-12b23a5e5d40)
+
+
 
 
 <h2> 🚀 &nbsp;Languages and Tools </h2>
@@ -17,3 +19,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="php" width="45" height="45"/>
 
 </p>
+
+## 🎮 Take a look at my pacman game playthrough! It is made just in Windows Forms for my programming class Assessment.
+
+
+![PacMan_fva2Hy1drk](https://github.com/user-attachments/assets/641c7b36-dd2e-4866-bebf-12b23a5e5d40)
