@@ -21,7 +21,7 @@ This page is still under construction...
 </p>
 
 ## 🎮 Projects
-Take a look at my pacman game playthrough! It is made just in Windows Forms for my programming class assignment.
+Pacman game playthrough. It is made just in Windows Forms for my programming class assignment.
 
 
 ![PacMan_fva2Hy1drk](https://github.com/user-attachments/assets/641c7b36-dd2e-4866-bebf-12b23a5e5d40)
