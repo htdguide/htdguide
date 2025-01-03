@@ -19,9 +19,3 @@ This page is still under construction...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="php" width="45" height="45"/>
 
 </p>
-
-## 🎮 Projects
-Pacman game playthrough. This game is stretching Windows Forms possibilities, it was a project for my programming class.
-
-
-![PacMan_fva2Hy1drk](https://github.com/user-attachments/assets/641c7b36-dd2e-4866-bebf-12b23a5e5d40)
