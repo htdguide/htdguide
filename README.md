@@ -1,5 +1,5 @@
 ## 👋  Hi there! I'm Nikita
-I'm a Bachelor of Information Technology student in Otago Polytechnic.
+I'm a Bachelor of Information Technology student of Otago Polytechnic.
 This page is still under construction...
 
 
