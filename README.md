@@ -1,8 +1,9 @@
 ## 👋  Hi there! I'm Nikita
 I'm a Bachelor of Information Technology student of Otago Polytechnic.
-This page is still under construction...
 
-My webOS: https://htdguide.com
+At the moment working with React Vite with C++ compiled with WebAssembly.
+
+Developing a webOS: https://htdguide.com
 
 
 
