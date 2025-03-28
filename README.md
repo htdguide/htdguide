@@ -1,8 +1,9 @@
 ## 👋  Hi there! I'm Nikita
-I'm a Bachelor of Information Technology student of Otago Polytechnic.
+Software Engineer at ApplyWithAI.
 
-At the moment working with React Vite with C++ compiled with WebAssembly.
+At the moment working with React Vite with C++ compiled with WebAssembly and with Svelte + SurrealDB.
 
+Visit ApplyWithAI: https://applywithai.com
 Developing a webOS: https://htdguide.com
 
 
