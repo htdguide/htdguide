@@ -1,7 +1,7 @@
 ## 👋  Hi there! I'm Nikita
 Software Engineer at ApplyWithAI.
 
-At the moment working with React Vite with C++ compiled with WebAssembly and with Svelte + SurrealDB.
+At the moment working with React Vite with C++ WebAssembly compiled and with Svelte + SurrealDB.
 
 Visit ApplyWithAI: https://applywithai.com
 
