@@ -1,13 +1,13 @@
 ## 👋  Hi there! I'm Nikita
 Software Engineer at ApplyWithAI.
 
-At the moment working on two projects:
+<h2>Current Projects</h2>
 
-webOS: JavaScript with React and C++ via WebAssembly  
-ApplyWithAI: Svelte + SurrealDB
+<h3>webOS</h3>
+https://htdguide.com             [JavaScript with React and C++ via WebAssembly] 
 
-webOS: https://htdguide.com
-ApplyWithAI: https://applywithai.com
+<h3>ApplyWithAI</h3>
+https://applywithai.com    [Svelte + TypeScript + SurrealDB]
 
 
 
