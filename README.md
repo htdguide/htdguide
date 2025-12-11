@@ -1,5 +1,4 @@
 ## 👋  Hi there! I'm Nikita
-Software Engineer at ApplyWithAI.
 
 <h2>Current Projects</h2>
 
