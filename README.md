@@ -5,11 +5,6 @@
 <h3>webOS</h3>
 https://htdguide.com             [JavaScript with React and C++ via WebAssembly] 
 
-<h3>ApplyWithAI</h3>
-https://applywithai.com    [Svelte + TypeScript + SurrealDB]
-
-
-
 
 <h2> 🔨 &nbsp;Languages and Tools </h2>
 
