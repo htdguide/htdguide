@@ -1,9 +1,13 @@
 ##  👋 Hi there! I'm Nikita
 I'm currently working on webOS, an OS-like interface referencing one of the popular operating systems.
 
-## webOS
-https://htdguide.com           
-
+<a href="https://htdguide.com" target="_blank" rel="noopener noreferrer">
+  <img
+    alt="btn"
+    src="https://github.com/user-attachments/assets/3af021eb-292c-46cb-9218-455c5175566b"
+    width="250"
+  />
+</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/htdguide) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/htdguide) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mogilevskiy.nik@gmail.com) 
